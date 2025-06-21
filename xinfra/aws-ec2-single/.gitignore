@@ -1,0 +1,7 @@
+# 현재 있는 위치의 ignore
+.terraform.lock.hcl
+.terraform
+.terraform.tfstate
+terraform.tfstate
+terraform.tfstate.1732244297.backup
+terraform.tfstate.backup
